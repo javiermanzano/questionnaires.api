@@ -1,6 +1,8 @@
 # Run the app
 python manage.py runserver
 
+Server will run on port 8000
+
 # Migrations
 python manage.py makemigrations
 python manage.py migrate
