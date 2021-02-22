@@ -4,6 +4,8 @@ python manage.py runserver
 Server will run on port 8000
 
 # Migrations
+SQLITE Database has been used for this simple example, although We've prepared a docker-compose.yaml to start using Postgres. That should be pretty straightforward to do just changing config files
+
 python manage.py makemigrations
 python manage.py migrate
 
