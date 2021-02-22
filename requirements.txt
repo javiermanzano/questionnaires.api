@@ -1,0 +1,9 @@
+asgiref==3.3.1
+Django==3.1.7
+django-cors-headers==3.7.0
+djangorestframework==3.12.2
+djangorestframework-csv==2.1.0
+pytz==2021.1
+six==1.15.0
+sqlparse==0.4.1
+unicodecsv==0.14.1
